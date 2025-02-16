@@ -6,7 +6,7 @@ const fromcurr=document.querySelector(".from select");
 const tocurr=document.querySelector(".to select");
 const msg=document.querySelector(".msg");
 
-window.addEventListener("load",()=>{
+window.addEventListener("load", ()=>{
   updateExchangerate();
 })
 

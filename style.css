@@ -7,15 +7,15 @@ body{
     justify-content: center;
     align-items:center;
     min-height:100vh ;
-    background-color:#f4e4ba;
+    background-color:#d8cfb7;
 }
 .container{
-    background-color: white;
+    background-color: rgb(236, 237, 226);
     padding:2rem;
     border-radius: 1rem;
     min-height:45vh;
     width: 40vw;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(53, 52, 52, 0.19);
 }
 
 form{
@@ -55,7 +55,7 @@ select-container img{
     width:8rem;
     align-items: center;
     border-radius: 0.5rem;
-    border:1px solid lightgrey;
+    border:1px solid rgb(200, 120, 149);
 }
 .select-container select{
     font-size:1rem;
@@ -67,7 +67,7 @@ select-container img{
 
 form button{
     height:3rem;
-    background-color: #af4d98;
+    background-color: #18c0b7;
     color:white;
     font-size: 1.15rem;
     cursor: pointer;
